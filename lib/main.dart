@@ -1,4 +1,6 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
+// Author: Julieta Ramos Ayón
+// Date: 1/28/2022
 
 import 'dart:math';
 import 'dart:ui';
