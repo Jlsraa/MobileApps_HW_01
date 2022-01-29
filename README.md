@@ -8,3 +8,5 @@ Navegación e implementación de widgets en Flutter.
  - Los Icon Buttons cambian de color al ser presionados
  - De igual manera, al pesionar los botones de "Correo", "Llamar" y "Dirección", se muestra un SnackBar con información adicional
 
+## Demostración
+![screen-gif](./demo.gif)
